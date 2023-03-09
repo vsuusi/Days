@@ -1,0 +1,4 @@
+
+tasks.json
+#ignore all .exe files:
+*.exe
